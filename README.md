@@ -3,6 +3,5 @@
 - :mailbox: How to reach me sean@newhorizoncode.io
 - ⚡ Fun fact: I love surfing 🏄
 
-![stofbergsean's GitHub stats](https://github-readme-stats.vercel.app/api?username=stofbergsean&count_private=true)
 <!---
 --->
